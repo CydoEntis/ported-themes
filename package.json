@@ -1,6 +1,7 @@
 {
   "name": "cydo",
   "displayName": "cydo",
+  "publisher": "cydo",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.0.0"
