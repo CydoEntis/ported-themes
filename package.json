@@ -1,0 +1,40 @@
+{
+  "name": "cydo",
+  "displayName": "cydo",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TMNT",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tmnt.color-theme.json"
+      },
+      {
+        "label": "PaperColor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/papercolor-dark.color-theme.json"
+      },
+      {
+        "label": "TangoTango",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tangotango.color-theme.json"
+      },
+      {
+        "label": "CyberDream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberdream.color-theme.json"
+      },
+      {
+        "label": "Bamboo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bamboo.color-theme.json"
+      }
+    ]
+  }
+}
