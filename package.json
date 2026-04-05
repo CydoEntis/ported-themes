@@ -27,6 +27,11 @@
         "path": "./themes/tangotango.color-theme.json"
       },
       {
+        "label": "TangoTango Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tangotango-dim.color-theme.json"
+      },
+      {
         "label": "CyberDream",
         "uiTheme": "vs-dark",
         "path": "./themes/cyberdream.color-theme.json"
