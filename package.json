@@ -41,6 +41,16 @@
         "path": "./themes/desertink.color-theme.json"
       },
       {
+        "label": "Ported - Firesky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firesky.color-theme.json"
+      },
+      {
+        "label": "Ported - Firesky Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firesky-dim.color-theme.json"
+      },
+      {
         "label": "Ported - Eldar",
         "uiTheme": "vs-dark",
         "path": "./themes/eldar.color-theme.json"
@@ -74,6 +84,26 @@
         "label": "Ported - Paper Color Slim",
         "uiTheme": "vs-dark",
         "path": "./themes/papercolor-slim.color-theme.json"
+      },
+      {
+        "label": "Ported - Pomatia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pomatia.color-theme.json"
+      },
+      {
+        "label": "Ported - Pomatia Lucid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pomatia-lucid.color-theme.json"
+      },
+      {
+        "label": "Ported - Pomatia Noble",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pomatia-noble.color-theme.json"
+      },
+      {
+        "label": "Ported - Pomatia Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pomatia-soft.color-theme.json"
       },
       {
         "label": "Ported - Sprinkles",

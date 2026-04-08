@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "editor.background": "#2e3436",
-    "panel.background": "#2e3436",
+    "panel.background": "#313739",
     "editorGutter.background": "#2e3436",
     "editor.foreground": "#eeeeec",
     "editorCursor.background": "#fce94f",
@@ -124,7 +124,7 @@
     "panelTitle.inactiveForeground": "#888888",
     "panelInput.border": "#555753",
 
-    "terminal.background": "#2e3436",
+    "terminal.background": "#313739",
     "terminal.foreground": "#eeeeec",
     "terminal.border": "#555753",
     "terminal.selectionBackground": "#555753",
@@ -192,6 +192,7 @@
     "breadcrumbPicker.background": "#33393b",
 
     "quickInput.background": "#33393b",
+    "quickInput.border": "#555753",
     "quickInput.foreground": "#eeeeec",
     "quickInputHighlight.background": "#204a87",
     "quickInputList.focusBackground": "#204a87",
@@ -212,6 +213,7 @@
     "notificationsInfoIcon.foreground": "#8cc4ff",
 
     "focusBorder": "#8cc4ff",
+    "widget.border": "#555753",
     "foreground": "#eeeeec",
     "disabledForeground": "#888888",
     "widget.shadow": "#00000066",

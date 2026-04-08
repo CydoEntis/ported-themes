@@ -52,13 +52,13 @@
     "editorGroupHeader.tabsBackground": "#1e1e1e",
     "editorGroupHeader.tabsBorder": "#3a3a3a",
 
-    "panel.background": "#1e1e1e",
+    "panel.background": "#292929",
     "panel.border": "#3a3a3a",
     "panelTitle.activeForeground": "#d0d0d0",
     "panelTitle.activeBorder": "#00afaf",
     "panelTitle.inactiveForeground": "#606060",
 
-    "terminal.background": "#262626",
+    "terminal.background": "#292929",
     "terminal.foreground": "#d0d0d0",
     "terminal.ansiBlack": "#262626",
     "terminal.ansiRed": "#5faf5f",
@@ -78,6 +78,7 @@
     "terminal.ansiBrightWhite": "#eeeeee",
 
     "focusBorder": "#00afaf",
+    "widget.border": "#444444",
     "selection.background": "#3a3a3a",
     "scrollbar.shadow": "#00000000",
     "scrollbarSlider.background": "#44444466",
@@ -123,6 +124,7 @@
     "quickInput.foreground": "#d0d0d0",
     "quickInputList.focusBackground": "#3a3a3a",
     "quickInputTitle.background": "#262626",
+    "quickInput.border": "#444444",
 
     "editorWidget.background": "#262626",
     "editorWidget.foreground": "#d0d0d0",
@@ -315,6 +317,46 @@
       "settings": {
         "foreground": "#dfaf00"
       }
+    },
+    {
+      "name": "Markdown heading",
+      "scope": ["markup.heading", "entity.name.section", "punctuation.definition.heading"],
+      "settings": { "foreground": "#00afaf", "fontStyle": "bold" }
+    },
+    {
+      "name": "Markdown bold",
+      "scope": ["markup.bold"],
+      "settings": { "fontStyle": "bold" }
+    },
+    {
+      "name": "Markdown italic",
+      "scope": ["markup.italic"],
+      "settings": { "fontStyle": "italic" }
+    },
+    {
+      "name": "Markdown code",
+      "scope": ["markup.inline.raw", "markup.fenced_code.block"],
+      "settings": { "foreground": "#dfaf5f" }
+    },
+    {
+      "name": "Markdown link",
+      "scope": ["markup.underline.link", "string.other.link"],
+      "settings": { "foreground": "#5fafdf" }
+    },
+    {
+      "name": "Markdown quote",
+      "scope": ["markup.quote"],
+      "settings": { "foreground": "#af87af", "fontStyle": "italic" }
+    },
+    {
+      "name": "Diff added",
+      "scope": ["markup.inserted", "diff.inserted"],
+      "settings": { "foreground": "#5faf5f" }
+    },
+    {
+      "name": "Diff removed",
+      "scope": ["markup.deleted", "diff.deleted"],
+      "settings": { "foreground": "#ff5faf" }
     },
     {
       "name": "Invalid",

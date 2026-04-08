@@ -7,7 +7,10 @@
       "Bash(xargs grep:*)",
       "mcp__ide__executeCode",
       "WebFetch(domain:raw.githubusercontent.com)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(grep -n \"menu.border\\\\|editorWidget.border\\\\|editorSuggestWidget.border\\\\|editorHoverWidget.border\\\\|quickInput\\\\|dropdown.border\\\\|notifications.border\" C:/Programming/ported-themes/themes/*.color-theme.json)",
+      "Bash(grep -n \"\\\\\"panel.background\\\\\"\\\\|\\\\\"terminal.background\\\\\"\\\\|\\\\\"editor.background\\\\\"\" C:/Programming/ported-themes/themes/*.color-theme.json)",
+      "Bash(grep:*)"
     ]
   }
 }
