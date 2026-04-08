@@ -3,6 +3,10 @@
   "displayName": "cydo",
   "publisher": "cydo",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CydoEntis/ported-themes"
+  },
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -12,34 +16,89 @@
   "contributes": {
     "themes": [
       {
-        "label": "TMNT",
+        "label": "Ported - Bamboo",
         "uiTheme": "vs-dark",
-        "path": "./themes/tmnt.color-theme.json"
+        "path": "./themes/bamboo.color-theme.json"
       },
       {
-        "label": "PaperColor",
+        "label": "Ported - Boo",
         "uiTheme": "vs-dark",
-        "path": "./themes/papercolor-dark.color-theme.json"
+        "path": "./themes/boo.color-theme.json"
       },
       {
-        "label": "TangoTango",
+        "label": "Ported - Citruszest",
         "uiTheme": "vs-dark",
-        "path": "./themes/tangotango.color-theme.json"
+        "path": "./themes/citruszest.color-theme.json"
       },
       {
-        "label": "TangoTango Dim",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tangotango-dim.color-theme.json"
-      },
-      {
-        "label": "CyberDream",
+        "label": "Ported - CyberDream",
         "uiTheme": "vs-dark",
         "path": "./themes/cyberdream.color-theme.json"
       },
       {
-        "label": "Bamboo",
+        "label": "Ported - Desertink",
         "uiTheme": "vs-dark",
-        "path": "./themes/bamboo.color-theme.json"
+        "path": "./themes/desertink.color-theme.json"
+      },
+      {
+        "label": "Ported - Eldar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eldar.color-theme.json"
+      },
+      {
+        "label": "Ported - Eldar Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eldar-dim.color-theme.json"
+      },
+      {
+        "label": "Ported - Elrond",
+        "uiTheme": "vs-dark",
+        "path": "./themes/elrond.color-theme.json"
+      },
+      {
+        "label": "Ported - Elrond Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/elrond-dim.color-theme.json"
+      },
+      {
+        "label": "Ported - Open Color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/open-color.color-theme.json"
+      },
+      {
+        "label": "Ported - PaperColor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/papercolor-dark.color-theme.json"
+      },
+      {
+        "label": "Ported - Paper Color Slim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/papercolor-slim.color-theme.json"
+      },
+      {
+        "label": "Ported - Sprinkles",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sprinkles.color-theme.json"
+      },
+      {
+        "label": "Ported - TangoTango",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tangotango.color-theme.json"
+      },
+      {
+        "label": "Ported - TangoTango Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tangotango-dim.color-theme.json"
+      },
+      {
+        "label": "Ported - TMNT",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tmnt.color-theme.json"
+      },
+      {
+        "label": "Ported - Wombat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wombat.color-theme.json"
       }
     ]
   }
