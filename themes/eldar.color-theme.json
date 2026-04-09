@@ -111,7 +111,7 @@
     "panelTitle.inactiveForeground": "#808080",
     "terminal.background": "#030303",
     "terminal.foreground": "#ffffff",
-    "terminal.selectionBackground": "#8ae23466",
+    "terminal.selectionBackground": "#8ae234AA",
     "terminal.border": "#111111",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#ef2929",

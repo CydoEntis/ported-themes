@@ -10,7 +10,11 @@
       "Bash(curl:*)",
       "Bash(grep -n \"menu.border\\\\|editorWidget.border\\\\|editorSuggestWidget.border\\\\|editorHoverWidget.border\\\\|quickInput\\\\|dropdown.border\\\\|notifications.border\" C:/Programming/ported-themes/themes/*.color-theme.json)",
       "Bash(grep -n \"\\\\\"panel.background\\\\\"\\\\|\\\\\"terminal.background\\\\\"\\\\|\\\\\"editor.background\\\\\"\" C:/Programming/ported-themes/themes/*.color-theme.json)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(gh api:*)",
+      "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); [print\\(r['full_name'], r['html_url']\\) for r in data.get\\('items',[]\\)]\")",
+      "WebSearch",
+      "WebFetch(domain:github.com)"
     ]
   }
 }

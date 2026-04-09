@@ -63,7 +63,7 @@
 
     "terminal.background": "#11192b",
     "terminal.foreground": "#ffd7af",
-    "terminal.selectionBackground": "#5fafff66",
+    "terminal.selectionBackground": "#5fafffAA",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#d75f5f",
     "terminal.ansiGreen": "#87afd7",
