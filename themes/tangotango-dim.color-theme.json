@@ -127,7 +127,7 @@
     "terminal.background": "#212729",
     "terminal.foreground": "#eeeeec",
     "terminal.border": "#555753",
-    "terminal.selectionBackground": "#555753",
+    "terminal.selectionBackground": "#b4fa7066",
     "terminal.cursor.foreground": "#fce94f",
     "terminalCursor.background": "#1e2426",
     "terminalCursor.foreground": "#fce94f",

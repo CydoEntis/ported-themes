@@ -205,6 +205,7 @@
 
     "terminal.background": "#1c1d21",
     "terminal.foreground": "#f1f1f1",
+    "terminal.selectionBackground": "#78bd6566",
     "terminal.border": "#2f3137",
     "terminal.ansiBlack": "#1c1d21",
     "terminal.ansiRed": "#eb3d54",
