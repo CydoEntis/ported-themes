@@ -111,6 +111,11 @@
         "path": "./themes/sprinkles.color-theme.json"
       },
       {
+        "label": "Ported - Star Wars",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starwars.color-theme.json"
+      },
+      {
         "label": "Ported - TangoTango",
         "uiTheme": "vs-dark",
         "path": "./themes/tangotango.color-theme.json"
