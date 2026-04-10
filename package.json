@@ -16,6 +16,21 @@
   "contributes": {
     "themes": [
       {
+        "label": "Ported - Acario Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/acario-dark.color-theme.json"
+      },
+      {
+        "label": "Ported - Acario Dark Redux",
+        "uiTheme": "vs-dark",
+        "path": "./themes/acario-dark-redux.color-theme.json"
+      },
+      {
+        "label": "Ported - Acario Light",
+        "uiTheme": "vs",
+        "path": "./themes/acario-light.color-theme.json"
+      },
+      {
         "label": "Ported - Bamboo",
         "uiTheme": "vs-dark",
         "path": "./themes/bamboo.color-theme.json"
