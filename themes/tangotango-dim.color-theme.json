@@ -1197,6 +1197,70 @@
         "foreground": "#2e3436",
         "background": "#c0c000"
       }
+    },
+    {
+      "name": "SQL Keywords",
+      "scope": [
+        "keyword.other.DML.sql",
+        "keyword.other.DDL.sql",
+        "keyword.other.sql",
+        "keyword.other.data-definition.create.sql",
+        "keyword.other.alias.sql",
+        "keyword.other.order.sql",
+        "keyword.other.authorization.sql"
+      ],
+      "settings": { "foreground": "#b4fa70" }
+    },
+    {
+      "name": "SQL Data Types",
+      "scope": ["storage.type.sql", "support.type.sql"],
+      "settings": { "foreground": "#8cc4ff" }
+    },
+    {
+      "name": "SQL Functions",
+      "scope": [
+        "support.function.aggregate.sql",
+        "support.function.scalar.sql",
+        "support.function.sql"
+      ],
+      "settings": { "foreground": "#fce94f" }
+    },
+    {
+      "name": "SQL Operators",
+      "scope": [
+        "keyword.operator.comparison.sql",
+        "keyword.operator.math.sql",
+        "keyword.operator.logical.sql"
+      ],
+      "settings": { "foreground": "#b4fa70" }
+    },
+    {
+      "name": "Env Variable Key",
+      "scope": [
+        "variable.other.env",
+        "support.constant.env",
+        "string.interpolated.env variable.other.dotenv"
+      ],
+      "settings": { "foreground": "#fce94f" }
+    },
+    {
+      "name": "Env Variable Value",
+      "scope": [
+        "string.dotenv",
+        "string.unquoted.env",
+        "string.quoted.double.env",
+        "string.quoted.single.env"
+      ],
+      "settings": { "foreground": "#e9b96e" }
+    },
+    {
+      "name": "Env Comment",
+      "scope": [
+        "comment.line.number-sign.dotenv",
+        "comment.dotenv",
+        "comment.line.number-sign.env"
+      ],
+      "settings": { "foreground": "#73d216", "fontStyle": "italic" }
     }
   ]
 }
